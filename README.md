@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XueyingWu
 - 👀 I’m interested in Analytics, ML, Crypto, Investment, Pets...
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently learning ML & Statistics
 - 💞️ I’m looking to collaborate on AB test & improve product analytics
 - 📫 How to reach me: xueying_wu@hotmail.com
 
